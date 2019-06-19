@@ -9,4 +9,12 @@ textarea.materialize-textarea:focus:not([readonly]) {
 
 .btn {
     left: 750px;
+    color: red;
+}
+span {
+    color: red;
+}
+
+nav .brand-logo {
+    color: red;
 }
