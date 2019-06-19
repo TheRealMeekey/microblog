@@ -1,0 +1,7 @@
+.vscode
+.idea
+db.sqlite3
+migrations
+__pycache__
+my
+.DS_Store
